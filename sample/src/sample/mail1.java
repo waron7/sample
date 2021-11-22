@@ -9,7 +9,7 @@ public class mail1
 {  
  public static void main(String [] args){  
       String to = "varunthota365@gmail.com";//change accordingly git 
-      String from = "accutestingsample@gmail.com";//change accordingly  
+      String from = "accutestingsample@gmail.com";//change accordingly  git 
       String host = "localhost";//or IP address  
   
      //Get the session object  
