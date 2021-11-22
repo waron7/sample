@@ -10,7 +10,7 @@ public class armstrong
 	
     public static void main(String[] args)
     {
-        int n,var
+        int n,var,var2
         cubeSum = 0, num, r;
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number=");
