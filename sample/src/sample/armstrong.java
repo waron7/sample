@@ -3,13 +3,14 @@ package sample;
 import java.util.Scanner;
 
 /**
- * @author AFAQ
+ * @author AFAQ gitupdates
  */
 public class armstrong
 {
+	
     public static void main(String[] args)
     {
-        int n,
+        int n,var
         cubeSum = 0, num, r;
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number=");
@@ -29,5 +30,6 @@ public class armstrong
         {
             System.out.println("Not Armstrong Number");
         }
+        
     }
 }
