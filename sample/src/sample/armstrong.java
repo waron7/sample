@@ -3,7 +3,7 @@ package sample;
 import java.util.Scanner;
 
 /**
- * @author AFAQ
+ * @author AFAQ updated in git
  */
 public class armstrong
 {
